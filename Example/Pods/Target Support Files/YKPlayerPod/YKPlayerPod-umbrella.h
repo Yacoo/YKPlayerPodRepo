@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Store.h"
 
 FOUNDATION_EXPORT double YKPlayerPodVersionNumber;
 FOUNDATION_EXPORT const unsigned char YKPlayerPodVersionString[];

@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'YKPlayerPod_Example' do
-  pod 'YKPlayerPod', :path => '../'
+  pod 'YKPlayerPod', :path => '/Users/yake/Desktop/YKPlayerPod'
 
   target 'YKPlayerPod_Tests' do
     inherit! :search_paths

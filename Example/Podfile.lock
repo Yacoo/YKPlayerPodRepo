@@ -2,15 +2,15 @@ PODS:
   - YKPlayerPod (0.1.0)
 
 DEPENDENCIES:
-  - YKPlayerPod (from `../`)
+  - YKPlayerPod (from `/Users/yake/Desktop/YKPlayerPod`)
 
 EXTERNAL SOURCES:
   YKPlayerPod:
-    :path: "../"
+    :path: "/Users/yake/Desktop/YKPlayerPod"
 
 SPEC CHECKSUMS:
   YKPlayerPod: 2c4738f4292d430fe3e79d27dd0bddf75cf7f5d9
 
-PODFILE CHECKSUM: 83a8a434523e059c1d0cca2e95f975d44592251b
+PODFILE CHECKSUM: 5a1a2dc8aa28f14618abc391ad071dd6bcc4faff
 
 COCOAPODS: 1.5.0
