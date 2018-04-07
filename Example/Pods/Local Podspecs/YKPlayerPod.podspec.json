@@ -1,0 +1,22 @@
+{
+  "name": "YKPlayerPod",
+  "version": "0.1.0",
+  "summary": "A short description of YKPlayerPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yake_0223@126.com/YKPlayerPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yake_0223@126.com": "yake.wang@liwushuo.com"
+  },
+  "source": {
+    "git": "https://github.com/yake_0223@126.com/YKPlayerPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YKPlayerPod/Classes/**/*"
+}
