@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YKPlayerPod_Example' do
+  pod 'YKPlayerPod', :path => '../'
+
+  target 'YKPlayerPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
